@@ -14,3 +14,6 @@ On Windows, create a project virtual environment in the .venv folder:
 py -m venv .venv
 .venv\Scripts\Activate
 py -m pip install -r requirements.txt
+# Project Setup
+
+## Virtual Environment Setup
