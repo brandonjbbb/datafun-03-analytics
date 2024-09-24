@@ -17,3 +17,14 @@ py -m pip install -r requirements.txt
 # Project Setup
 
 ## Virtual Environment Setup
+# Python SQLite Database Project
+
+## Overview
+This project demonstrates how to create and manipulate a SQLite database using Python. It includes operations such as creating tables, inserting, updating, and querying data.
+
+## Running the Script  
+To run the database script:  
+This will:  
+- Create a `my_database.db` SQLite database.  
+- Insert, update, and query user data.  
+- Output the results in the terminal and pandas DataFrame.
